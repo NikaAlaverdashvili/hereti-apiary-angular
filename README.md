@@ -1,5 +1,7 @@
 # Hereti Apiary — Angular
 
+**Live site:** https://nikaalaverdashvili.github.io/hereti-apiary-angular/
+
 Angular 20 standalone implementation of the bilingual Hereti Apiary website. It preserves the complete Georgian/English content, responsive liquid-glass design, gallery, educational sections, accordions, lightbox, mobile navigation and contact-form demonstration.
 
 ## Requirements
